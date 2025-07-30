@@ -1,2 +1,3 @@
 # HMcode1
-In depth discussion for treatment for cancer 
+This is my first project.
+The project talks about various ways how machine helps in medical world.
